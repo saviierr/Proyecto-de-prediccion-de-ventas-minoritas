@@ -54,9 +54,10 @@ El proyecto busca analizar grandes volúmenes de datos históricos para identifi
 ├── README.md
 ├── .gitignore
 ├── notebooks/
-│   ├── TA2.1_Fase1.ipynb
-│   ├── TA2.2_Parquet.ipynb
-│   └── TA3.2_SparkSQL.ipynb
+│   ├── TA_2_2_SavierSoto.ipynb
+│   ├── TA_3_1_–Patrones_MapReduce–_SavierSoto.ipynb
+│   ├── TA_3_2_–Notebook_Analítico_SQL–_SavierSoto.ipynb
+│   └── TA_3_3_–Informe_Formatos_Columnares–_SavierSoto.ipynb
 └── docs/
     ├── TA2.1-Fase1-Proyecto_SavierSoto-AndersonCalva.pdf
     └── GA1-5_ProyectoFase1_PrediccionVentasMinoristas.pdf
